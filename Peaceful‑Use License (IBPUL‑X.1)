@@ -1,189 +1,311 @@
-⭐ Information‑Bubble Peaceful‑Use License (IBPUL‑X.1)
-Copyright © David E. Blackwell
+INFORMATION-BUBBLE PEACEFUL-USE LICENSE
+(IBPUL-X.1)
 
-This license governs the use, reproduction, modification, and distribution of the Information‑Bubble Framework, including all Quiet‑Scalar, ODIM–Foundry, and vehicle‑bubble engine derivatives.
+Version X.1
 
-X.1 Copyright Foundations
-X.1.1 Berne Convention (1886, as amended)
-Article 2(1): Scientific and literary works are protected
+Copyright © 2026, David E. Blackwell
 
-Article 2(3): Derivative works are protected
+Licensor: David E. Blackwell
 
-Article 5(2): Protection is automatic without registration
+Effective Date: April 22, 2026
 
-Article 6bis: Moral rights (attribution and integrity)
+All rights reserved under applicable international copyright and intellectual-property law.
 
-X.1.2 U.S. Copyright Act, Title 17
-§102(a): Protects original scientific and literary works
+This License governs the use, reproduction, modification, and distribution of the Information-Bubble Framework, including all Quiet-Scalar, ODIM-Foundry, and vehicle-bubble engine derivatives.
 
-§101: Defines derivative works
+Article I — Definitions
+For purposes of this License, the following terms shall have the meanings ascribed to them below. Capitalized terms used but not defined in a particular provision shall have the meanings set forth in this Article I.
 
-§106: Exclusive rights of the author
+1.1    “Licensed Technology” or “Information-Bubble Framework” shall mean the complete body of theoretical, mathematical, computational, and engineering work comprising the Information-Bubble Framework, including, without limitation, all Quiet-Scalar field theories, ODIM-Foundry informational geometry, vehicle-bubble engine dynamics, and all associated equations, algorithms, control laws, simulation models, engineering specifications, technical documentation, and any tangible or intangible expression thereof, in any form or medium now known or hereafter devised.
 
-§106A: Moral rights
+1.2    “Author” or “Licensor” shall mean David E. Blackwell, the sole creator, author, and copyright holder of the Licensed Technology.
 
-§501–505: Civil remedies for infringement
+1.3    “Licensee” shall mean any individual, entity, organization, corporation, partnership, trust, government body, governmental subdivision, non-governmental organization, or agent that accesses, uses, reproduces, modifies, distributes, publicly displays, publicly performs, or creates Derivative Works based upon the Licensed Technology, whether directly or indirectly.
 
-These statutes grant the author full control over licensing, derivative works, and ethical conditions.
+1.4    “Derivative Work” shall have the meaning ascribed to such term in Article VI of this License.
 
-X.2 Peaceful‑Use Clause
-The Information‑Bubble Framework may be used only for peaceful, civilian, scientific, artistic, and exploratory purposes.
+1.5    “Commercial Product” or “Commercial Device” shall mean any product, device, system, service, platform, apparatus, or assembly that incorporates the Licensed Technology or any Derivative Work thereof, in whole or in part, and that is offered for sale, lease, license, subscription, rental, or distribution to any third party — whether for profit, revenue generation, or otherwise.
 
-Strictly prohibited uses:
+1.6    “Peaceful Use” shall mean use that is exclusively civilian, scientific, artistic, educational, humanitarian, or exploratory in nature, and that does not contribute to, facilitate, enable, or otherwise support any Prohibited Use as defined in Section 1.8 of this Article and Article IV of this License.
 
-weapons development
+1.7    “Prohibited Use” shall mean any use identified in Article IV of this License, including, without limitation, any military, weaponized, coercive, oppressive, or otherwise harmful application of the Licensed Technology.
 
-military targeting systems
+1.8    “Immediate Family” shall mean the Author’s spouse and the Author’s biological or legally adopted children.
 
-intelligence or surveillance systems
+1.9    “Descendants” shall mean the Author’s biological or legally adopted children and their biological or legally adopted children, extending in perpetuity without generational limitation, such that each successive generation of biological or legally adopted issue shall be included within the scope of this definition.
 
-coercive technologies
+Article II — Copyright Foundations
+The Licensed Technology is the original intellectual property of the Author and is protected under the international and domestic legal frameworks set forth below. This Article constitutes a formal recital of the legal bases upon which this License is founded and upon which the Author’s exclusive rights are asserted.
 
-government use in conflict zones
+Section 2.1 — Berne Convention for the Protection of Literary and Artistic Works (1886, as amended)
+The Licensed Technology is protected under the Berne Convention for the Protection of Literary and Artistic Works, as revised at Paris on July 24, 1971, and as amended on September 28, 1979, including but not limited to the following provisions:
 
-Legal Basis:  
-Geneva Conventions I & IV, Additional Protocol I, Hague Convention IV, UN Charter Articles 1, 2(4), 55.
+(a)  Article 2(1) — The Licensed Technology constitutes a scientific and literary work within the meaning of Article 2(1) of the Berne Convention and is entitled to the full protection afforded to such works as intellectual property under the laws of all member states.
 
-Any militarization constitutes a grave breach under international humanitarian law.
+(b)  Article 2(3) — All derivative works based upon the Licensed Technology, including translations, adaptations, arrangements, and other transformations, are protected as original works under Article 2(3), without prejudice to the copyright in the underlying Licensed Technology.
 
-X.3 Humanitarian Exceptions
-Permitted government‑adjacent uses:
+(c)  Article 5(2) — The Licensed Technology enjoys automatic protection in all member states of the Berne Union without requirement of registration, deposit, or any other formality, pursuant to Article 5(2).
 
-hospitals
+(d)  Article 6bis — The Author retains in perpetuity the moral rights of attribution and integrity, including the right to claim authorship of the Licensed Technology and the right to object to any distortion, mutilation, modification, or other derogatory action in relation to the Licensed Technology that would be prejudicial to the Author’s honor or reputation.
 
-ambulances and emergency medical services
+Section 2.2 — United States Copyright Act, Title 17, United States Code
+The Licensed Technology is further protected under the copyright laws of the United States of America, including but not limited to the following provisions of Title 17 of the United States Code:
 
-civilian rescue operations
+(a)  § 102(a) — The Licensed Technology constitutes an original work of authorship fixed in a tangible medium of expression, including scientific and literary works, and is entitled to protection under § 102(a).
 
-accredited journalists in conflict zones
+(b)  § 101 — The statutory definition of “derivative work” under § 101 applies to all works derived from or based upon the Licensed Technology.
 
-UN peacekeeping observers
+(c)  § 106 — The Author holds the exclusive rights enumerated in § 106, including the rights to reproduce, prepare derivative works, distribute copies, and publicly display the Licensed Technology.
 
-Legal Basis:  
-Geneva Convention I, UNSC Resolution 1738, Customary IHL Rule 25.
+(d)  § 106A — The Author is entitled to the moral rights of attribution and integrity under the Visual Artists Rights Act, codified at § 106A, to the fullest extent applicable.
 
-X.4 Prototype Requirement
-Any commercial device derived from this framework must provide:
+(e)  §§ 501–505 — Any infringement of the Author’s exclusive rights shall subject the infringer to civil remedies, including actual and statutory damages, injunctive relief, impoundment, and the recovery of costs and attorney’s fees, as provided under §§ 501 through 505.
 
-One full working prototype to the author, David E. Blackwell, and his immediate family, free of charge.
+The foregoing statutory and treaty provisions vest in the Author the exclusive right to control the licensing, reproduction, modification, distribution, and ethical conditions governing all use of the Licensed Technology and any Derivative Works thereof.
 
-Applies to all devices, including:
+Article III — Peaceful-Use Clause
+The Licensed Technology may be used solely and exclusively for peaceful, civilian, scientific, artistic, educational, exploratory, and humanitarian purposes. Any use that does not satisfy the definition of Peaceful Use as set forth in Article I of this License is expressly prohibited.
 
-displays, phones, watches
+The following uses are expressly permitted under this License, provided that such uses comply in all respects with the terms and conditions set forth herein:
 
-gaming systems, computers
+(a)  Civilian scientific research and experimentation conducted in furtherance of public knowledge;
 
-emitter grids, volumetric displays
+(b)  Scientific exploration, prototyping, and publication in peer-reviewed or publicly accessible fora;
 
-reinforced optical slabs
+(c)  Artistic installations, immersive environments, and creative expression in any medium;
 
-spacecraft interfaces
+(d)  Educational tools, classroom demonstrations, academic study, and instructional curricula;
 
-Legal Basis:  
-Berne Convention Article 6bis, Title 17 §106A.
+(e)  Humanitarian technologies, including medical applications, disaster-response visualization, rehabilitation systems, and accessibility tools designed to serve persons with disabilities;
 
-X.5 Derivative Works Clause
-Any technology using:
+(f)  Personal, non-commercial experimentation and hobbyist projects undertaken without intent to distribute or commercialize; and
 
-the equations in Section 6
+(g)  Exploratory and theoretical research aimed at advancing fundamental understanding of physics, mathematics, information theory, or related disciplines.
 
-Quiet‑Scalar control
+The Licensor explicitly and irrevocably rejects all militarization, weaponization, and coercive use of the Licensed Technology. This rejection is absolute and is not subject to modification, waiver, or exception except as expressly provided in Article V (Humanitarian Exceptions) of this License. No oral representation, course of dealing, or implied consent shall be construed as a waiver of this provision.
 
-ODIM–Foundry informational geometry
+Article IV — Prohibited Uses
+The following uses of the Licensed Technology are strictly and unconditionally prohibited. Any Licensee that engages in, authorizes, facilitates, or knowingly permits any of the following uses shall be deemed in material breach of this License, and such breach shall trigger the immediate termination provisions of Article XIV and all applicable enforcement remedies:
 
-vehicle‑bubble dynamics
+(a)  The design, development, manufacture, testing, deployment, or integration of weapons systems of any kind, including but not limited to directed-energy weapons, kinetic weapons, optical weapons, acoustic weapons, chemical weapons, biological weapons, nuclear weapons, radiological weapons, electromagnetic weapons, or psychological weapons;
 
-reinforcement feedback
+(b)  The design, development, manufacture, deployment, or operation of military platforms, military vehicles, military installations, command-and-control systems, military logistics systems, or any apparatus intended for use by armed forces of any nation or non-state actor;
 
-or any mathematical/engineering extension
+(c)  The design, development, deployment, or operation of intelligence, surveillance, reconnaissance, targeting, tracking, or geolocation systems, whether operated by military, paramilitary, intelligence, or law-enforcement entities;
 
-is considered a derivative work.
+(d)  The design, development, deployment, or operation of coercive, oppressive, or authoritarian technologies, including but not limited to crowd-control systems, forced-compliance systems, mass-monitoring systems, behavioral-modification systems, social-credit systems, and predictive-policing systems;
 
-All derivative works must:
+(e)  Any use by any government, governmental subdivision, or agent thereof within active conflict zones, occupied territories, theaters of war, areas subject to martial law, or areas under military administration;
 
-acknowledge the original framework
+(f)  Any application designed, intended, or reasonably expected to cause physical, psychological, economic, or environmental harm to any person, population, community, or ecosystem; and
 
-follow peaceful‑use restrictions
+(g)  Any use by an entity currently subject to international sanctions imposed by the United Nations Security Council, the United States Department of the Treasury (Office of Foreign Assets Control), or the European Union for human-rights violations, war crimes, or crimes against humanity.
 
-provide a prototype to the author and family
+The prohibitions set forth in this Article are consistent with and reinforce the obligations established under the Geneva Conventions of 1949 (Conventions I and IV) and Additional Protocol I (1977), the Hague Convention IV of 1907 Respecting the Laws and Customs of War on Land, the Charter of the United Nations (Articles 1, 2(4), and 55), and the Rome Statute of the International Criminal Court (1998). Any militarization of the Licensed Technology constitutes a grave breach under international humanitarian law and may subject the responsible parties to criminal prosecution under applicable domestic and international law.
 
-remain open for scientific review
+Article V — Humanitarian Exceptions
+Notwithstanding the prohibitions set forth in Article IV of this License, the following uses of the Licensed Technology in conflict-adjacent, emergency, or crisis contexts are expressly permitted:
 
-X.6 Non‑Government Use Clause
-Except for humanitarian exceptions, no government, military, intelligence agency, or defense contractor may use, modify, or deploy this framework.
+(a)  Hospitals, clinics, field hospitals, and civilian medical facilities providing treatment to wounded, sick, or injured persons, regardless of their status;
 
-Legal Basis:  
-UN Charter Article 2(4), Hague Convention IV, Customary IHL Rule 70.
+(b)  Ambulances, emergency medical services, medical evacuation vehicles, and first-responder operations engaged in the preservation of human life;
 
-X.7 Crimes Against Humanity Clause
-Any use resulting in:
+(c)  Civilian search-and-rescue operations, including disaster relief, natural-catastrophe response, and missing-persons recovery;
 
-harm
+(d)  Accredited journalists operating under recognized press credentials issued by a bona fide news organization, solely for purposes of reporting, documentation, and the protection of press freedom; and
 
-coercion
+(e)  United Nations peacekeeping observers, humanitarian-aid personnel, and representatives of accredited international humanitarian organizations operating under a mandate of the United Nations or its specialized agencies.
 
-targeting
+These exceptions apply solely and exclusively when the Licensed Technology is used exclusively for the protection, treatment, rescue, or documentation of civilian life and is not integrated into, controlled by, operationally subordinate to, or logistically dependent upon any military chain of command, intelligence apparatus, defense-contracting entity, or paramilitary organization.
 
-military deployment
+Legal Basis: Geneva Convention I, Articles 24–26 (protection of wounded, sick, and medical personnel); United Nations Security Council Resolution 1738 (2006) (protection of journalists in armed conflict); Customary International Humanitarian Law, Rule 25 (protection of medical personnel); Additional Protocol I, Article 79 (measures of protection for journalists).
 
-civilian injury
+Article VI — Derivative Works
+For the purposes of this License, a “Derivative Work” shall be defined broadly to encompass the fullest possible scope of works derived from, based upon, or related to the Licensed Technology. Without limiting the generality of the foregoing, a Derivative Work shall include:
 
-constitutes a crime against humanity.
+(a)  Any use, adaptation, extension, reimplementation, port, translation, modification, or transformation of the equations, control laws, Quiet-Scalar field theories, ODIM-Foundry informational geometry, vehicle-bubble dynamics, reinforcement feedback mechanisms, simulation behaviors, engineering extensions, algorithmic structures, or data models contained in or derived from the Licensed Technology;
 
-Legal Basis:  
-Rome Statute Articles 7 & 8, Geneva Conventions.
+(b)  Functional equivalents — systems, devices, or processes that produce the same or substantially similar functional output as the Licensed Technology or any component thereof, regardless of the means by which such output is achieved;
 
-X.8 Right‑to‑Repair & Open Hardware Requirements
-All information‑bubble‑derived devices must be:
+(c)  Behavioral equivalents — systems, devices, or processes that exhibit the same or substantially similar operational behavior, dynamic response, or observable characteristics as the Licensed Technology;
 
-repairable
+(d)  Conceptual equivalents — systems, devices, or processes whose core operating principle, architecture, theoretical foundation, or design philosophy is derived from, informed by, or substantially similar to that of the Licensed Technology;
 
-modular
+(e)  Simulation equivalents — systems whose simulated behavior, computational outputs, or predictive models replicate, approximate, or converge upon the outputs of the Licensed Technology under comparable conditions; and
 
-user‑serviceable
+(f)  Any mathematical, computational, or engineering extension, elaboration, generalization, or specialization of the Licensed Technology, whether expressed in the same or a different formalism.
 
-built with standard fasteners
+All Derivative Works shall be subject to the following obligations without exception:
 
-free of glue‑sealed enclosures
+(a)  Each Derivative Work must formally acknowledge and attribute the original Information-Bubble Framework and the Author, David E. Blackwell, in all documentation, publications, promotional materials, and product labeling associated with the Derivative Work;
 
-Schematics, wiring diagrams, and BOMs must be provided at purchase.
+(b)  Each Derivative Work must comply with all peaceful-use restrictions set forth in Articles III and IV of this License;
 
-Legal Basis:  
-Magnuson‑Moss Warranty Act, DMCA §1201 exemptions, EU Ecodesign Directive, EU Right‑to‑Repair Regulation.
+(c)  Each Derivative Work that constitutes or is incorporated into a Commercial Product must satisfy the prototype-delivery obligations set forth in Article VIII of this License; and
 
-X.9 Open Firmware & Anti‑Lockdown Requirements
-All firmware, drivers, and operating systems must be:
+(d)  Each Derivative Work must remain open and available for independent scientific review and verification by qualified researchers and by the Author or the Author’s designees.
 
-free
+All Derivative Works are subject to all terms, conditions, prohibitions, and obligations of this License in their entirety, without limitation or exception. The creation of a Derivative Work does not grant the creator any independent intellectual-property right that would supersede, diminish, or conflict with the rights of the Author under this License.
 
-open‑source
+Article VII — Loophole Closures
+To ensure the complete and effective protection of the Licensed Technology and the integrity of this License, the following actions, methods, and strategies shall not exempt any work, system, device, or process from classification as a Derivative Work under Article VI, nor shall they exempt any party from any obligation, prohibition, or condition set forth in this License:
 
-modifiable
+(a)  Renaming the Licensed Technology, its components, subsystems, equations, algorithms, variables, parameters, or any element thereof;
 
-not encrypted
+(b)  Reimplementing the Licensed Technology, in whole or in part, in a different programming language, hardware platform, computing architecture, mathematical formalism, notation system, or physical medium;
 
-not cloud‑locked
+(c)  Using only a portion, subset, fragment, isolated element, individual equation, single algorithm, or extracted component of the Licensed Technology;
 
-not behind paywalls
+(d)  Abstracting the Licensed Technology into a different hardware form factor, software architecture, abstraction layer, virtual environment, or cloud-based platform;
 
-Legal Basis:  
-DMCA §1201 exemptions, GPLv3 Section 6, EU DMA Article 6(7).
+(e)  Using artificial intelligence, machine learning, neural networks, generative models, evolutionary algorithms, or any automated system to produce variants, mutations, interpolations, extrapolations, or derivatives of the Licensed Technology;
 
-IBPUL‑1.0 Summary
-Purpose: Governs use of the Information‑Bubble Framework
+(f)  Claiming that the resulting work is “inspired by,” “influenced by,” “in the spirit of,” or “conceptually related to” the Licensed Technology, rather than derived from it;
 
-Allowed Uses: Scientific, artistic, exploratory, peaceful civilian
+(g)  Producing a system that is functionally equivalent in output to the Licensed Technology, regardless of internal implementation, intermediate steps, or stated methodology;
 
-Prohibited Uses: Weapons, military systems, coercive technologies
+(h)  Producing a system that is behaviorally equivalent in operation to the Licensed Technology, regardless of the party’s stated derivation, independent discovery, or parallel development claims; and
 
-Humanitarian Exceptions: Hospitals, rescue, journalists, UN observers
+(i)  Producing a system that is equivalent in simulation, computational modeling, predictive behavior, or dynamic response to the Licensed Technology, regardless of the underlying computational engine or simulation framework.
 
-Derivative Works: Must remain open, peaceful, repairable, prototype‑providing
+The foregoing closures are non-exhaustive. Any attempt to circumvent, evade, nullify, undermine, or render ineffective the protections of this License through technical, semantic, legal, procedural, organizational, or any other means shall itself constitute a material violation of this License and shall trigger the termination and enforcement provisions set forth in Articles XIII and XIV.
 
-Commercial Use: Requires open firmware, schematics, repairability
+Article VIII — Prototype Requirement
+Section 8.1 — Prototype to Author and Immediate Family
+Any Licensee that manufactures, produces, assembles, or causes to be manufactured any Commercial Product or Commercial Device derived from the Licensed Technology shall provide one (1) full working prototype unit to the Author, David E. Blackwell, at absolutely no cost to the Author, within sixty (60) calendar days of the first commercial sale, lease, or distribution of the Commercial Product.
 
-Warranty: Provided “as‑is”
+All costs associated with the prototype — including, without limitation, the unit cost, packaging, shipping, delivery, customs duties, import taxes, insurance, handling, and any administrative or logistical expenses — shall be borne entirely by the Licensee.
 
-Termination: Violations terminate the license
+The Licensee must also provide one (1) full working prototype unit, under the same zero-cost terms, to each member of the Author’s Immediate Family — defined as the Author’s spouse and the Author’s biological or legally adopted children — upon written request by any such family member or their legal guardian, within ninety (90) calendar days of receipt of such written request.
 
-Jurisdiction: Berne Convention, Title 17, international humanitarian law
+The purpose of all prototype deliveries under this Section is to enable the Author and the Author’s Immediate Family to verify that the Commercial Product is fully compliant with all terms, conditions, and requirements of this License, including, without limitation, the peaceful-use, open-hardware, right-to-repair, open-firmware, and derivative-works provisions hereof.
+
+No fee, charge, cost, surcharge, deposit, handling fee, administrative fee, or expense of any kind shall be assessed against the Author or any member of the Author’s Immediate Family in connection with any prototype delivery under this Section.
+
+Section 8.2 — Prototype to Author’s Descendants in Perpetuity
+The Licensee must provide one (1) full working prototype unit of the Commercial Product to each of the Author’s Descendants — defined as the Author’s biological or legally adopted children and their biological or legally adopted children, in perpetuity and without generational limitation — upon written request by any such Descendant or their legal guardian, within ninety (90) calendar days of receipt of such written request.
+
+All costs associated with the prototype — including, without limitation, the unit cost, packaging, shipping, delivery, customs duties, import taxes, insurance, handling, and any administrative or logistical expenses — shall be borne entirely by the Licensee.
+
+The sole and exclusive purpose of prototype deliveries under this Section is to enable the Author’s Descendants to verify ongoing compliance of the Commercial Product with all terms, conditions, and requirements of this License.
+
+No fee, charge, cost, surcharge, deposit, handling fee, administrative fee, or expense of any kind shall be assessed against any Descendant or their legal guardian in connection with any prototype delivery under this Section.
+
+This obligation is perpetual and shall survive any transfer, assignment, sale, merger, acquisition, reorganization, dissolution, or bankruptcy of the Licensee’s business, and shall be binding upon any successor, assignee, acquirer, or transferee of the Licensee.
+
+Section 8.3 — Covered Devices
+The prototype obligations set forth in this Article apply to all Commercial Products and Commercial Devices derived from the Licensed Technology, including but not limited to: displays, phones, watches, tablets, gaming systems, computers, emitter grids, volumetric displays, reinforced optical slabs, spacecraft interfaces, vehicle-bubble propulsion systems, wearable devices, holographic projectors, medical imaging systems, navigation instruments, and any device incorporating Quiet-Scalar, ODIM-Foundry, or Information-Bubble principles in any form.
+
+Legal Basis: Berne Convention, Article 6bis (moral rights of the Author, including the right of attribution and integrity); Title 17 U.S.C. § 106A (rights of attribution and integrity under the Visual Artists Rights Act).
+
+Article IX — Non-Government Use Clause
+Except as expressly provided in Article V (Humanitarian Exceptions) of this License, no government, governmental subdivision, sovereign state, military branch, armed force, intelligence agency, signals-intelligence service, defense contractor, defense subcontractor, law-enforcement agency, border-control agency, or any entity acting at the direction of, on behalf of, or under contract with any of the foregoing may use, access, reproduce, modify, adapt, distribute, deploy, sublicense, or create Derivative Works of the Licensed Technology.
+
+This prohibition extends to any entity in which a government or governmental subdivision holds a controlling interest, exercises operational authority, or provides a majority of funding, regardless of the entity’s nominal classification as a private, quasi-governmental, or public-private organization.
+
+Legal Basis: United Nations Charter, Article 2(4) (prohibition on the threat or use of force against the territorial integrity or political independence of any state); Hague Convention IV of 1907 Respecting the Laws and Customs of War on Land; Customary International Humanitarian Law, Rule 70 (means and methods of warfare must not be of a nature to cause superfluous injury or unnecessary suffering).
+
+Article X — Right-to-Repair and Open-Hardware Requirements
+All Commercial Products and Commercial Devices manufactured, produced, assembled, or distributed under this License shall comply with the following requirements in their entirety. These requirements are material conditions of this License, and any failure to comply shall constitute a material breach:
+
+(a)  All Commercial Products must be designed for repairability, modularity, and user serviceability. No sealed, non-serviceable, or permanently enclosed assemblies shall be used where a serviceable design is technically feasible;
+
+(b)  All Commercial Products must use only standard, commercially available fasteners. No proprietary screws, security screws, non-standard bolts, tamper-resistant clips, or any fastener requiring a tool not readily available to the general public shall be used;
+
+(c)  No adhesive bonding (glue), heat-staking, ultrasonic welding, laser welding, or other permanent joining method shall be used in any assembly where mechanical fasteners are technically feasible as an alternative;
+
+(d)  No serialized, paired, software-locked, cryptographically bound, or otherwise restricted components shall be used that prevent replacement with generic, third-party, aftermarket, or user-fabricated equivalents;
+
+(e)  Complete schematics, wiring diagrams, circuit-board layouts, and bills of materials (BOMs) must be provided to the end user at no additional cost at the time of purchase, either in printed form or as freely downloadable digital files; and
+
+(f)  Complete CAD files, STL files, STEP files, IGES files, and machining drawings for all custom components must be made freely available to the public under an open-hardware license compatible with this License, at no cost and without registration requirements.
+
+Legal Basis: Magnuson-Moss Warranty Act, 15 U.S.C. §§ 2301–2312 (prohibition on tying warranty coverage to use of specific parts or services); Digital Millennium Copyright Act, 17 U.S.C. § 1201, exemptions for circumvention of technological protection measures for purposes of repair and maintenance; European Union Ecodesign Directive (Directive 2009/125/EC, as amended); European Union Right-to-Repair Regulation.
+
+Article XI — Open-Firmware and Anti-Lockdown Requirements
+All firmware, device drivers, embedded software, and operating systems incorporated into, distributed with, or required for the operation of any Commercial Product or Commercial Device manufactured under this License must satisfy all of the following requirements without exception:
+
+(a)  All firmware and software must be free and open-source, with full source code, complete build instructions, toolchain specifications, and flashing tools provided to the end user at no cost;
+
+(b)  All firmware and software must be freely modifiable by the end user without voiding any warranty, service agreement, or support entitlement;
+
+(c)  No firmware or software component shall be encrypted, obfuscated, code-signed in a manner that prevents modification, or otherwise locked to prevent user inspection, modification, compilation, or redistribution;
+
+(d)  No firmware or software component shall require cloud-based activation, cloud-based authentication, remote license verification, or internet connectivity for basic operation, initialization, or continued functionality;
+
+(e)  No firmware or software component shall be placed behind any paywall, subscription service, licensing fee, registration wall, or access restriction of any kind;
+
+(f)  No firmware or software component shall employ digital rights management (DRM), trusted platform module (TPM) restrictions, hardware attestation requirements, or any technological protection measure that restricts the end user’s ability to use, modify, or redistribute the firmware; and
+
+(g)  No firmware or software component shall include remote-disable capability, remote-bricking capability, over-the-air deactivation, kill-switch functionality, or any mechanism by which the Licensee or any third party can remotely render the Commercial Product inoperable.
+
+Legal Basis: Digital Millennium Copyright Act, 17 U.S.C. § 1201, exemptions for circumvention of technological measures for repair and interoperability; GNU General Public License, Version 3, Section 6 (anti-tivoization provisions requiring conveyance of installation information); European Union Digital Markets Act, Article 6(7) (interoperability obligations for gatekeepers).
+
+Article XII — Crimes Against Humanity Clause
+Any use of the Licensed Technology that causes, facilitates, enables, contributes to, or is reasonably foreseeable to result in harm against civilian populations, suppression of fundamental human rights, acts of aggression, or violations of international humanitarian law shall be deemed a violation not only of this License but also of the following instruments of international law:
+
+(a)  The Rome Statute of the International Criminal Court (1998), including but not limited to Article 7 (Crimes Against Humanity, including murder, extermination, enslavement, deportation, imprisonment, torture, sexual violence, persecution, enforced disappearance, and apartheid) and Article 8 (War Crimes, including grave breaches of the Geneva Conventions and other serious violations of the laws and customs applicable in international and non-international armed conflict);
+
+(b)  The Geneva Conventions of 1949 (Conventions I through IV) and their Additional Protocols of 1977 (Protocols I and II), including all provisions relating to the protection of civilians, prisoners of war, wounded combatants, and medical personnel;
+
+(c)  The Hague Conventions of 1899 and 1907, including the regulations respecting the laws and customs of war on land and the prohibition of certain means and methods of warfare; and
+
+(d)  The Charter of the United Nations, including but not limited to Article 2(4) (prohibition on the threat or use of force against the territorial integrity or political independence of any state) and Article 1 (maintenance of international peace and security).
+
+The Licensor reserves the right to refer any such violation to the International Criminal Court, the Office of the Prosecutor of the International Criminal Court, relevant national prosecutorial authorities, and international human-rights organizations — including but not limited to the Office of the United Nations High Commissioner for Human Rights, Amnesty International, and Human Rights Watch — for investigation, prosecution, and the pursuit of all available legal remedies.
+
+Article XIII — Enforcement Basis
+This License is a legally binding instrument and is enforceable under the following legal frameworks, treaties, and statutory authorities:
+
+(a)  The Berne Convention for the Protection of Literary and Artistic Works (1886, as amended at Paris, 1971);
+
+(b)  The United States Copyright Act, Title 17, United States Code, § 101 et seq.;
+
+(c)  International Humanitarian Law, including the Geneva Conventions of 1949, their Additional Protocols of 1977, the Hague Conventions, and applicable Customary International Humanitarian Law;
+
+(d)  The Magnuson-Moss Warranty Act, 15 U.S.C. §§ 2301–2312;
+
+(e)  The European Union Digital Markets Act, the European Union Ecodesign Directive, and applicable European Union Right-to-Repair regulations; and
+
+(f)  Any other applicable national, regional, or international intellectual-property, trade, consumer-protection, or human-rights law in any jurisdiction where the Licensed Technology is used, reproduced, distributed, or commercialized.
+
+This License shall be interpreted and enforced under the laws of the United States of America, with supplementary reference to applicable international treaties, conventions, and customary international law. The Licensor reserves the right to pursue enforcement in any jurisdiction where a violation has occurred or where the Licensee maintains operations, assets, subsidiaries, affiliates, or commercial activity. The selection of one forum shall not preclude concurrent or subsequent proceedings in any other competent jurisdiction.
+
+Article XIV — Termination
+This License shall terminate immediately, automatically, and without prior notice upon any violation of the peaceful-use provisions (Articles III and IV), the crimes-against-humanity clause (Article XII), the humanitarian-exception conditions (Article V), the derivative-works obligations (Article VI), the loophole-closure provisions (Article VII), the prototype-delivery obligations (Article VIII), the non-government-use restrictions (Article IX), the open-hardware requirements (Article X), the open-firmware requirements (Article XI), or any other material provision of this License.
+
+Upon termination of this License:
+
+(a)  All rights, licenses, permissions, and authorizations granted under this License shall cease immediately and shall not be reinstated except by express written consent of the Licensor;
+
+(b)  The Licensee shall immediately cease all use, manufacture, assembly, sale, lease, distribution, sublicensing, promotion, and marketing of the Licensed Technology and any and all Derivative Works;
+
+(c)  The Licensee shall destroy all copies, prototypes, tooling, molds, firmware, source code, compiled binaries, documentation, design files, and any other materials related to the Licensed Technology in the Licensee’s possession, custody, or control within thirty (30) calendar days of termination, and shall provide the Licensor with a sworn written certification of such destruction; and
+
+(d)  Termination shall not limit, waive, or prejudice the Licensor’s right to seek actual damages, statutory damages, consequential damages, injunctive relief, specific performance, disgorgement of profits, or criminal referral under applicable domestic or international law.
+
+Article XV — Warranty Disclaimer
+THE LICENSED TECHNOLOGY IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, COMPLETENESS, OR SUITABILITY FOR ANY PARTICULAR APPLICATION. THE AUTHOR MAKES NO REPRESENTATION OR WARRANTY REGARDING THE ACCURACY, COMPLETENESS, RELIABILITY, TIMELINESS, OR SUITABILITY OF THE LICENSED TECHNOLOGY FOR ANY PURPOSE WHATSOEVER. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, LOSSES, COSTS, EXPENSES, OR OTHER LIABILITY OF ANY KIND — WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE — ARISING FROM, RELATED TO, OR IN CONNECTION WITH THE USE, INABILITY TO USE, PERFORMANCE, OR NON-PERFORMANCE OF THE LICENSED TECHNOLOGY, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Article XVI — Declaration of Purpose
+This License is issued not merely as a legal instrument but as a declaration of intent. The Author offers the Information-Bubble Framework to the world in the hope that it will be used to advance scientific knowledge, expand the boundaries of human experience, heal the suffering, educate the curious, and unite communities across every border. The Author envisions a future in which the deepest structures of reality — information, geometry, and the quiet pulse of scalar fields — are harnessed for wonder and understanding, never for violence, coercion, or domination.
+
+The Author believes that the most powerful ideas should serve the most vulnerable among us. This License is the Author’s best effort to ensure that the Information-Bubble Framework remains a force for peace, discovery, and shared human flourishing — now and for all generations to come.
+
+Let this work stand as proof that one mind, working from conviction and imagination, can build something that matters — and can protect it for the world.
+
+EXECUTED AND DELIVERED
+
+Licensor:
+
+David E. Blackwell
+
+Date: April 22, 2026
+
+Location: Wyandotte, Oklahoma, United States of America
+
+This document constitutes the complete and exclusive statement of the license terms governing the Licensed Technology. No oral or written modification, amendment, supplement, or waiver of any provision of this License shall be effective unless executed in writing by the Licensor. This License supersedes all prior and contemporaneous negotiations, representations, warranties, commitments, offers, contracts, and communications, whether written or oral, with respect to the subject matter hereof.
+
+— END OF LICENSE —
+
+INFORMATION-BUBBLE PEACEFUL-USE LICENSE (IBPUL-X.1) • Version X.1 • Copyright © 2026, David E. Blackwell
